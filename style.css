@@ -1,1 +1,11 @@
 
+@media screen and (max-width: 391px) {
+    .navbar-toggler {
+        padding: 0;
+    }
+
+    .navbar-toggler-icon {
+        width: 1.1em;
+        height: 1.1em;
+    }
+}
