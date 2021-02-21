@@ -1,11 +1,23 @@
 
+img.alea {
+    width: 50vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 @media screen and (max-width: 391px) {
     .navbar-toggler {
         padding: 0;
+
     }
 
     .navbar-toggler-icon {
         width: 1.1em;
         height: 1.1em;
+    }
+
+    h1 {
+        font-size: 1.5em;
     }
 }
